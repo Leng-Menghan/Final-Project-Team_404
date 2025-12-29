@@ -4,5 +4,68 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 1b1ca9398272b5a4a9050e2625ec83a1
+  - enabled: 0
+    path: Assets/Scenes/MainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Hallway_Normal.unity
+    guid: b76c382c97f11384f8accfee2883d715
+  - enabled: 1
+    path: Assets/Scenes/Hallway_1.unity
+    guid: 7f1c0e96861206e4182cbbbe6a56d671
+  - enabled: 1
+    path: Assets/Scenes/Hallway_2.unity
+    guid: ebf7012117591254da2bda082802c5a1
+  - enabled: 1
+    path: Assets/Scenes/Hallway_3.unity
+    guid: b575512adf3516b4789ff3a31567b750
+  - enabled: 1
+    path: Assets/Scenes/Hallway_4.unity
+    guid: 675345d0cd6e5ba4f99ebf6d52949137
+  - enabled: 1
+    path: Assets/Scenes/Hallway_5.unity
+    guid: c2d3eb549ebdac24c836e1a3911ca5f4
+  - enabled: 1
+    path: Assets/Scenes/Hallway_6.unity
+    guid: a9d9c4d64c0d8094284459ec6183af0a
+  - enabled: 1
+    path: Assets/Scenes/Hallway_7.unity
+    guid: 62cd7a13424de264d9c7033fa7e1ba62
+  - enabled: 1
+    path: Assets/Scenes/Hallway_8.unity
+    guid: 16c60194c5371574d9cc4bdf6876f8b1
+  - enabled: 1
+    path: Assets/Scenes/Hallway_9.unity
+    guid: faf7103cf998bfa4597c7c8f5b1d47cf
+  - enabled: 1
+    path: Assets/Scenes/Hallway_10.unity
+    guid: 48820df6c4fffcf4db439dd21ffd0884
+  - enabled: 1
+    path: Assets/Scenes/Hallway_12.unity
+    guid: d10aace484703cc4ca243af17cbf9e81
+  - enabled: 1
+    path: Assets/Scenes/Hallway_11.unity
+    guid: ca4257c99bcf94b45b28f38c5c1a11ef
+  - enabled: 1
+    path: Assets/Scenes/Hallway_14.unity
+    guid: 84cb38e4e70dfbd4a98cfc9cc1e39e1e
+  - enabled: 1
+    path: Assets/Scenes/Hallway_13.unity
+    guid: 7656ea95796532343ac32a4ebb0ba474
+  - enabled: 1
+    path: Assets/Scenes/Hallway_15.unity
+    guid: c4fa5139c8e0a074e84ae3cfb724edad
+  - enabled: 1
+    path: Assets/Scenes/Hallway_16.unity
+    guid: 65f7d81546913af4aa2b46bc0e6bd098
+  - enabled: 1
+    path: Assets/Scenes/Hallway_17.unity
+    guid: 58663248dcea32845974017a757f6c4b
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 153b55bfc92955a4cb51b6beb432747d
   m_configObjects: {}
